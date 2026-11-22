@@ -26,3 +26,8 @@ I built a local VoIP lab using **Ubuntu Server** running **Asterisk** as the PBX
 ## Documentation & Demos
 * **Final Project Report:** Included in this repository (`Final Report_BranHall.pdf`)[cite: 2].
 * **Screenshots & Recordings:** Add links or folders here for selected terminal captures, hardware photos, and call test recordings (Zoiper-to-Zoiper call, Music on Hold, and Echo test)[cite: 2, 4, 13].
+
+## Videos
+* **Echo and MusicOnHold test being conducted** https://youtube.com/shorts/YHdhLg81khU?feature=share
+* User-to-user test https://youtu.be/LFRE6CzIFaA
+* User-to-user test pt2 https://youtube.com/shorts/ohHFGnaXg5s?feature=share
