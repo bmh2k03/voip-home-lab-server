@@ -25,7 +25,7 @@ I built a local VoIP lab using **Ubuntu Server** running **Asterisk** as the PBX
 
 ## Documentation & Photos
 * **Final Project Report:** Included in this repository (`VoIPHomeLabServerFinalReport_BranHall.pdf`).
-* **Photos:** Individual photos are located in the photos folder in the repository.
+* **Photos:** Individual photos are located in the photos folder.
 
 ## Videos
 * **Echo and MusicOnHold test being conducted** https://youtube.com/shorts/YHdhLg81khU?feature=share
