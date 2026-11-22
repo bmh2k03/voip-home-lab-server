@@ -23,9 +23,9 @@ I built a local VoIP lab using **Ubuntu Server** running **Asterisk** as the PBX
 * **Cisco 7965 Firmware & TFTP/DHCP Options:** Attempted to migrate a Cisco IP Phone 7965 from SCCP to SIP firmware using a TFTP server, SIP firmware files, and a factory reset sequence, but the unit remained locked to SCCP. Also explored how DHCP options can advertise a TFTP server automatically during endpoint provisioning.
 * **Dialplan File Routing:** Resolved an early configuration mismatch where extension rules were initially placed in the wrong file before properly configuring `extensions.conf` and verifying live SIP/RTP call behavior.
 
-## Documentation & Demos
+## Documentation & Photos
 * **Final Project Report:** Included in this repository (`VoIPHomeLabServerFinalReport_BranHall.pdf`).
-* **Screenshots & Recordings:** Add links or folders here for selected terminal captures, hardware photos, and call test recordings (Zoiper-to-Zoiper call, Music on Hold, and Echo test).
+* **Photos:** Individual photos are located in the photos folder in the repository.
 
 ## Videos
 * **Echo and MusicOnHold test being conducted** https://youtube.com/shorts/YHdhLg81khU?feature=share
