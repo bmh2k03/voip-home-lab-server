@@ -28,6 +28,6 @@ I built a local VoIP lab using **Ubuntu Server** running **Asterisk** as the PBX
 * **Photos:** Individual photos are located in the photos folder.
 
 ## Videos
-* **Echo and MusicOnHold test being conducted** https://youtube.com/shorts/YHdhLg81khU?feature=share
-* User-to-user test https://youtu.be/LFRE6CzIFaA
+* **Echo and MusicOnHold test being conducted** https://youtube.com/shorts/YHdhLg81khU?feature=share or https://drive.google.com/file/d/1Te2NbRbUheADDIEgYncDgKYU49aiP8K8/view?usp=sharing
+* User-to-user test https://youtu.be/LFRE6CzIFaA 
 * User-to-user test pt2 https://youtube.com/shorts/ohHFGnaXg5s?feature=share
